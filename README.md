@@ -5,12 +5,12 @@ Tech: FastAPI, React + TS, Tailwind, Axios, Python, pypdf, Llama 3.1 via Ollama
 
 Features:
 
-Local LLM inference (offline, no API keys)
+- Local LLM inference (offline, no API keys)
 
-Skill extraction from plain text or PDFs
+- Skill extraction from plain text or PDFs
 
-Phase-wise learning paths with goals, topics, resources, and projects
+- Phase-wise learning paths with goals, topics, resources, and projects
 
-Streaming AI responses with real-time UI updates
+- Streaming AI responses with real-time UI updates
 
-Clean service-based backend architecture
+- Clean service-based backend architecture
